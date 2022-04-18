@@ -21,6 +21,6 @@ git commit -m 'deploy'
 # git push -f https://github.com/<USERNAME>/<REPO>.git master:gh-pages
 
 # 필자의 경우 TIL repository에 배포하기 때문에 아래와 같이 작성했다.
-git push -f https://github.com/hellomrma/playground-typescript.git master:gh-pages
+git push -f https://github.com/hellomrma/playground-es6.git master:gh-pages
 
 cd -
