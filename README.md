@@ -210,7 +210,7 @@ console.log([one,two,three,four]);
 - 이름이 같은 프로퍼티에 값을 할당
 
 ## 섹션 6. default value
-- 테스트
+- 테스트2
 
 ## 섹션 7. for-of 문
 ## 섹션 8. 연산자, 기타
